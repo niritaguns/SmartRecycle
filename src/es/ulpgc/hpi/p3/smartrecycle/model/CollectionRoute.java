@@ -41,4 +41,3 @@ public class CollectionRoute {
         return estimatedDistanceKM;
     }
 }
-}
