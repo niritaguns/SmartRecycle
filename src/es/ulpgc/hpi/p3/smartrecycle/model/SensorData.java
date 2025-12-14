@@ -38,4 +38,5 @@ public class SensorData {
     public double getTemperature() {
         return temperature;
     }
+
 }
