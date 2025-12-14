@@ -1,4 +1,5 @@
 package es.ulpgc.hpi.p3.smartrecycle.model;
+import java.util.List;
 
 public class SmartRecycleApp {
     public static void main(String[] args) {
